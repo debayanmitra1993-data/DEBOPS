@@ -49,3 +49,4 @@ if __name__ == '__main__':
 # gunicorn -w 4 -b 0.0.0.0:8000 runapp:app
 # SET "u_r_a1" '{"p1" : [1, 1], "p2" : [1, 1]}' (_n_a1)
 # curl -X POST http://localhost:8000 -H "Content-Type: application/json" -d '{"userType": "new", "userId" : 232421, "userAge" : 43}'
+# this
